@@ -1,0 +1,48 @@
+
+        <svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs>
+            <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="shadeGradientLight">
+              <stop stop-color="#332929" offset="0%"></stop>
+              <stop stop-color="#514142" offset="16.67%"></stop>
+              <stop stop-color="#705A5A" offset="33.33%"></stop>
+              <stop stop-color="#8E7372" offset="50%"></stop>
+              <stop stop-color="#AD8C8A" offset="66.67%"></stop>
+              <stop stop-color="#CBA4A3" offset="83.33%"></stop>
+              <stop stop-color="#EABDBB" offset="100%"></stop>
+            </linearGradient>
+            <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="shadeGradientDark">
+              <stop stop-color="#CBA5A3" offset="0%"></stop>
+              <stop stop-color="#AC8C8B" offset="16.67%"></stop>
+              <stop stop-color="#8D7473" offset="33.33%"></stop>
+              <stop stop-color="#6E5C5B" offset="50%"></stop>
+              <stop stop-color="#4F4443" offset="66.67%"></stop>
+              <stop stop-color="#302B2B" offset="83.33%"></stop>
+              <stop stop-color="#111313" offset="100%"></stop>
+            </linearGradient>
+          </defs>
+          <g id="light">
+            <rect fill="#141011" x="0" y="0" width="400" height="200"></rect>
+            <rect fill="#EABDBB" x="28" y="28" width="74" height="37"></rect>
+            <rect fill="#7DE4F0" x="118" y="28" width="74" height="37"></rect>
+            <rect fill="#F0F395" x="208" y="28" width="74" height="37"></rect>
+            <rect fill="#97E0C9" x="298" y="28" width="74" height="37"></rect>
+            <rect fill="#ED99B5" x="28" y="81" width="74" height="37"></rect>
+            <rect fill="#68A8E2" x="118" y="81" width="74" height="37"></rect>
+            <rect fill="#BBC6E9" x="208" y="81" width="74" height="37"></rect>
+            <rect fill="#DD97D1" x="298" y="81" width="74" height="37"></rect>
+            <rect fill="url(#shadeGradientLight)" x="28" y="134" width="344" height="37"></rect>
+          </g>
+          <g id="dark" transform="translate(0.000000, 200.000000)">
+            <rect fill="#EABDBB" x="0" y="0" width="400" height="200"></rect>
+            <rect fill="#111313" x="28" y="28" width="74" height="37"></rect>
+            <rect fill="#274049" x="118" y="28" width="74" height="37"></rect>
+            <rect fill="#7F7523" x="208" y="28" width="74" height="37"></rect>
+            <rect fill="#557E70" x="298" y="28" width="74" height="37"></rect>
+            <rect fill="#A74F6A" x="28" y="81" width="74" height="37"></rect>
+            <rect fill="#3F5461" x="118" y="81" width="74" height="37"></rect>
+            <rect fill="#3A3D47" x="208" y="81" width="74" height="37"></rect>
+            <rect fill="#7D5675" x="298" y="81" width="74" height="37"></rect>
+            <rect fill="url(#shadeGradientDark)" x="28" y="134" width="344" height="37"></rect>
+          </g>
+        </svg>
+      
